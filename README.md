@@ -1,1 +1,1 @@
-# Visualization tools for haules' EDMFT
+# Visualization tools for haule's EDMFT code
